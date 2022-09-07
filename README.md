@@ -1,10 +1,9 @@
+encryption_on_demand by Kukuh TW
   __ __     __        __     _______      __
   / //_/_ __/ /____ __/ /    /_  __/ | /| / /
  / ,< / // /  '_/ // / _ \    / /  | |/ |/ / 
 /_/|_|\_,_/_/\_\\_,_/_//_/   /_/   |__/|__/  
 
-
-# encryption_on_demand by Kukuh TW
 Ini adalah aplikasi layanan encryption on demand ,
 tempatkan apps ini pada intranet anda, pastikan hanya backend apps anda yang dapat akses layanan ini.
 untuk mencoba, anda memerlukan sample code dari sisi client.
