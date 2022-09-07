@@ -19,10 +19,3 @@ facebook : https://www.facebook.com/profile.php?id=100083608342093
 Whatsapp ; 62.812.9893.706 email : kukuhtw@gmail.com
 
 Jakarta 7 September 2022
-
-
-  __ __     __        __     _______      __
-  / //_/_ __/ /____ __/ /    /_  __/ | /| / /
- / ,< / // /  '_/ // / _ \    / /  | |/ |/ / 
-/_/|_|\_,_/_/\_\\_,_/_//_/   /_/   |__/|__/  
-
