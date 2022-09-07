@@ -225,6 +225,58 @@ RESPONSE FROM SERVER: {
 See, you can decrypt your data and read the data properly in your apps.
 
 </pre>
+
+<h3>Encrypt with id</h3>
+<pre>
+you need this method, when you like to encrypt one or more field data in your table with existing field id_1, id_2.
+
+BASE_END_POINT: http: //localhost/services_encryption/API/encrypt_with_id.php
+    headers: ["Content-Type: application\/json",
+        "Accept: application\/json",
+        "Client-ID: uz6gzYMCyL0iJmDB5bzXTskKghk1",
+        "Pass-Key: HaGqAeDoRXRjmpaZ8cB35"
+    ]
+postData: {
+    "AppsID": "101",
+    "Apps_TOKEN": "ti0M1fkJdb6DRr5USp3BlJP",
+    "Organization": "Acme Corporation",
+    "id_1": "227",
+    "id_2": "49024294",
+    "data": [{
+        "data_field": "customer_name",
+        "data_raw": "Kukuh TW"
+    }, {
+        "data_field": "customer_note",
+        "data_raw": "good customer"
+    }]
+}
+content: {
+    "ID_1": "227",
+    "ID_2": "49024294",
+    "data": [{
+        "data_field": "customer_name",
+        "data_result": "RfGF3L5B+iE="
+    }, {
+        "data_field": "customer_note",
+        "data_result": "aeuBzfYC2wXgOxMR+g=="
+    }],
+    "AppsID": "101",
+    "status": "200"
+}
+</pre>
+
+<h3>Source code</h3>
+
+<br><A target="_1" href="https://github.com/kukuhtw/encryption_on_demand">https://github.com/kukuhtw/encryption_on_demand</A> 
+<br><A target="_2"  href="https://github.com/kukuhtw/encryption_on_demand_client">https://github.com/kukuhtw/encryption_on_demand_client</A>
+<br>
+<br>Thanks for using this utility..
+<br>Overview :
+<a target="_3" href="https://kukuhtw.medium.com/mengatasi-kebocoran-data-dengan-layanan-enkripsi-dan-dekripsi-online-b01795e14954">
+https://kukuhtw.medium.com/mengatasi-kebocoran-data-dengan-layanan-enkripsi-dan-dekripsi-online-b01795e14954</a>
+<br>
+
+
         <div class="text-center">
                   </div>
         </div>
