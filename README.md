@@ -1,13 +1,4 @@
-# encryption_on_demand
-
-                                   _   _                               _                                _ 
-                                  | | (_)                             | |                              | |
-   ___ _ __   ___ _ __ _   _ _ __ | |_ _  ___  _ __    ___  _ __    __| | ___ _ __ ___   __ _ _ __   __| |
-  / _ \ '_ \ / __| '__| | | | '_ \| __| |/ _ \| '_ \  / _ \| '_ \  / _` |/ _ \ '_ ` _ \ / _` | '_ \ / _` |
- |  __/ | | | (__| |  | |_| | |_) | |_| | (_) | | | || (_) | | | || (_| |  __/ | | | | | (_| | | | | (_| |
-  \___|_| |_|\___|_|   \__, | .__/ \__|_|\___/|_| |_| \___/|_| |_| \__,_|\___|_| |_| |_|\__,_|_| |_|\__,_|
-                        __/ | |                   ______       ______                                     
-                       |___/|_|                  |______|     |______|      
+# encryption_on_demand by Kukuh TW
 
 Ini adalah aplikasi layanan encryption on demand ,
 tempatkan apps ini pada intranet anda, pastikan hanya backend apps anda yang dapat akses layanan ini.
