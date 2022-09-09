@@ -1,5 +1,7 @@
 #encryption_on_demand by Kukuh TW
 
+![apps encyotion on demand](https://miro.medium.com/max/339/1*zF2vJGbz69wZLTZGuWITfQ.png)
+
 Ini adalah aplikasi layanan encryption on demand ,
 tempatkan apps ini pada intranet anda, pastikan hanya backend apps anda yang dapat akses layanan ini.
 untuk mencoba, anda memerlukan sample code dari sisi client.
