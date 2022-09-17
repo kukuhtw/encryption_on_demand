@@ -8,6 +8,10 @@ untuk mencoba, anda memerlukan sample code dari sisi client.
 clone repo ini juga: https://github.com/kukuhtw/encryption_on_demand_client/
 
 
+Data lebih aman disimpan dalam bentuk chipper text / terenkripsi
+![apps encyotion on demand](https://miro.medium.com/max/1800/1*PBjNV7fR9Gq_bvckVb-DTQ.png)
+
+
 overview : 
 https://kukuhtw.medium.com/mengatasi-kebocoran-data-dengan-layanan-enkripsi-dan-dekripsi-online-b01795e14954
 
