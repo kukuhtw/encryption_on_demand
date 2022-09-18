@@ -1,5 +1,28 @@
 <?php
 
+/*
+  
+    $$\   $$\          $$\                 $$\             $$$$$$$$\ $$\      $$\ 
+$$ | $$  |         $$ |                $$ |            \__$$  __|$$ | $\  $$ |
+$$ |$$  /$$\   $$\ $$ |  $$\ $$\   $$\ $$$$$$$\           $$ |   $$ |$$$\ $$ |
+$$$$$  / $$ |  $$ |$$ | $$  |$$ |  $$ |$$  __$$\          $$ |   $$ $$ $$\$$ |
+$$  $$<  $$ |  $$ |$$$$$$  / $$ |  $$ |$$ |  $$ |         $$ |   $$$$  _$$$$ |
+$$ |\$$\ $$ |  $$ |$$  _$$<  $$ |  $$ |$$ |  $$ |         $$ |   $$$  / \$$$ |
+$$ | \$$\\$$$$$$  |$$ | \$$\ \$$$$$$  |$$ |  $$ |         $$ |   $$  /   \$$ |
+\__|  \__|\______/ \__|  \__| \______/ \__|  \__|         \__|   \__/     \__|
+
+ 
+kukuhtw@gmail.com
+whatsapp : 62.8129893706
+https://www.linkedin.com/in/kukuhtw/
+https://www.instagram.com/kukuhtw/
+https://twitter.com/kukuhtw/
+https://www.facebook.com/kukuhtw
+https://www.facebook.com/profile.php?id=100083608342093
+ 
+*/
+
+
 
 function check_headers($header_client_id,$header_pass_key,$link,$mySQLserver,$mySQLdefaultdb,$mySQLuser,$mySQLpassword) {
 	$sql = "select count(`id`) as `total` from `msapps` where `header_client_id`='$header_client_id' 
